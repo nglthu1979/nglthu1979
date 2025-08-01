@@ -1,4 +1,4 @@
-<img src="img/IMG_8446.jpeg">
+<img src="img/IMG_8446.jpeg" height= "300px">
 
 - 👋 Hi, I’m @nglthu1979
 - 👀 I’m interested in singing
